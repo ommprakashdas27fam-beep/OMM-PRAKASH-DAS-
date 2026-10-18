@@ -1,0 +1,6 @@
+{
+  "name": "Sheikah Slate",
+  "description": "The Legend of Zelda: Breath of the Wild companion with Hyrule Compendium, interactive cooking pot simulator, shrine & Korok quest tracker, and Sheikah runes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
